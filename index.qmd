@@ -2,7 +2,7 @@
 title: "Caitlin Swalec"
 about:
   template: broadside
-  image: image/IMG_5595.JPEG
+  image: IMG_5595.JPEG
 ---
 
 ---
