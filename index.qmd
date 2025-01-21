@@ -1,11 +1,10 @@
 ---
-title: "caitlinswalec.github.io"
+title: "Caitlin Swalec"
+about:
+  template: broadside
+  image: image/IMG_5595.JPEG
 ---
 
-This is a Quarto website.
+---
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I am an industrial decarbonization expert and climate change advocate. I direct the Heavy Industry Program at Global Energy Monitor, a nonprofit research organization, and teach graduate-level courses in carbon accounting at the University of California. I am also an experienced open water swimmer and trail runner, as well as a textile artist.
