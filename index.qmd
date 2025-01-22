@@ -1,10 +1,54 @@
 ---
-title: "Caitlin Swalec"
+title: "Caitlin Swalec" ###can remove this
+image: IMG_5595.JPEG
+toc: false
+id: hero-heading
 about:
-  template: broadside
-  image: IMG_5595.JPEG
+  template: trestles
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/caitlin-swalec-75634972/
+    - icon: github
+      text: GitHub
+      href: https://github.com/caitlinswalec
+    - icon: envelope
+      text: Email
+      href: mailto::caitlin.swalec@gmail.com
 ---
 
----
+::: {#hero-heading}
+### About Me
 
 I am an industrial decarbonization expert and climate change advocate. I direct the Heavy Industry Program at Global Energy Monitor, a nonprofit research organization, and teach graduate-level courses in carbon accounting at the University of California. I am also an experienced open water swimmer and trail runner, as well as a textile artist.
+
+------------------------------------------------------------------------
+
+### Current Position
+
+Program Director for Heavy Industry \| Global Energy Monitor
+
+-   Developed and launched datasets on global iron and steel production in order to support the industrial decarbonization movement.
+
+-   Pitched and secured over \$1.75 million USD annually in funding for research initiatives in GEM's heavy industry program.
+
+-   Managing a team of 10 project managers and researchers working to drive climate change action in the iron and steel, cement and concrete, and iron ore mining sectors.
+
+------------------------------------------------------------------------
+
+### Education
+
+**Master's of Environmental Science and Management** \| University of California, Santa Barbara \| 2017-2019
+
+Specialized in energy and climate change technology and policy including coursework in carbon accounting, advanced energy technologies, environmental policy, and environmental communications. Led projects in offshore wind farm planning, wildfire management and permitting, and waste management.
+
+**B.S in Chemical Engineering** \| Worcester Polytechnic Institute \| 2012-2016
+
+Completed labs and coursework in chemical and industrial plant design, unit operations, air quality management, water and wastewater engineering, power engineering, and environmental design and theory. Gained global experience through work and studies in Germany, France, Thailand, and the United States.
+
+**Continuous learning** \| Ongoing
+
+Engaged as a continuous learner through the  Managing to Change the World training from The Management Center (2024), a certification in Lifecycle Assessment from the American Institute of Chemical Engineers (2023), and a course on the New Hydrogen Economy from Terra.do (2021).
+:::
