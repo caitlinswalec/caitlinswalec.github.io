@@ -5,8 +5,8 @@ toc: false
 id: hero-heading
 about:
   template: trestles
-  image-shape: rectangle
-  image-width: 17em
+  image-shape: round
+  image-width: 20em
   links:
     - icon: linkedin
       text: LinkedIn
@@ -16,7 +16,7 @@ about:
       href: https://github.com/caitlinswalec
     - icon: envelope
       text: Email
-      href: mailto::caitlin.swalec@gmail.com
+      href: mailto:caitlin.swalec@gmail.com
 ---
 
 ::: {#hero-heading}
