@@ -3,4 +3,4 @@ title: "Contact"
 toc: false
 ---
 
-For inquiries related to my work at Global Energy Monitor, please reach contact me through my work email (caitlin.swalec@globalenergymonitor.org). For all other inquiries, please email me personally (caitlin.swalec@gmail.com).
+For inquiries related to my work at Global Energy Monitor, please reach contact me through my work email (caitlin.swalec\@globalenergymonitor.org). For all other inquiries, please email me personally (caitlin.swalec\@gmail.com).

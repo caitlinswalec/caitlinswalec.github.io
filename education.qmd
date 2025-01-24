@@ -1,0 +1,19 @@
+---
+title: "education"
+---
+
+::: {#hero-heading}
+### Education
+
+**Master's of Environmental Science and Management** \| University of California, Santa Barbara \| 2017-2019
+
+Specialized in energy and climate change technology and policy including coursework in carbon accounting, advanced energy technologies, environmental policy, and environmental communications. Led projects in offshore wind farm planning, wildfire management and permitting, and waste management.
+
+**B.S in Chemical Engineering** \| Worcester Polytechnic Institute \| 2012-2016
+
+Completed labs and coursework in chemical and industrial plant design, unit operations, air quality management, water and wastewater engineering, power engineering, and environmental design and theory. Gained global experience through work and studies in Germany, France, Thailand, and the United States.
+
+**Continuous learning** \| Ongoing
+
+Engaged as a continuous learner through the  Managing to Change the World training from The Management Center (2024), a certification in Lifecycle Assessment from the American Institute of Chemical Engineers (2023), and a course on the New Hydrogen Economy from Terra.do (2021).
+:::
