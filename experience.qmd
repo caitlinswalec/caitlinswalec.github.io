@@ -1,4 +1,22 @@
 ---
-title: "Experience and Skills"
+title: Experience and Skills"
+toc: false
 ---
 
+I have over 10 years of experience researching climate change and energy topics, with the last 5 years focused on heavy industry decarbonization, especially iron and steel. A summary of my professional skills are listed below. For my complete professional and academic experience, please download my [CV](Caitlin_Swalec_CV_01_22_2025.pdf).
+
+::: {#hero-heading}
+## Professional Skills
+
++-------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ### Leadership                | Experience as a supervisor, lead fundraiser and grant manager, hiring lead, project manager, and mentor for more than ten supervisees ranging from entry-level to PhD qualifications.                                                                                                                                                                    |
++-------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ### Communica-tions and media | Regular contact with and experience communicating complex technical topics to journalists and reporters from outlets including CNN, the Financial Times, DW, South China Morning Post, Fastmarkets, and Canary Media. Publications in industry newsletters and journals including GreenBiz, RENEW-Industry, and Steel Times International.               |
++-------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ### Fundraising               | Pitched and secured over \$1.75 million USD annually in funding for research initiatives in GEM's Heavy Industry Program.                                                                                                                                                                                                                                |
++-------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ### Engineering               | Training and professional experience in air quality control and permitting, offshore windfarm planning, and chemical and industrial plant design. Strong understanding and appreciation for the practical challenges and opportunities of engineering and design, especially for climate change technologies.                                            |
++-------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ### Endurance                 | Demonstrated resilience, persistence, and positivity in the face of difficult tasks, including a 12-mile channel swim in the Pacific Ocean, a 50 mile run back and forth across the Grand Canyon, multiple marathon and ultramarathon length running races, and daily efforts to document and hold accountable emissions from the heavy industry sector. |
++-------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+:::

@@ -6,8 +6,8 @@ website:
   title: "Caitlin Swalec"
   navbar:
     left: #accepts left/right
-      - about.qmd
       - experience.qmd
+      - contact.qmd
       - href: Caitlin_Swalec_CV_01_22_2025.pdf
         text: CV
         target: _blank #opens link (or page) in a new browser tab

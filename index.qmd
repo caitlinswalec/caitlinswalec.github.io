@@ -6,11 +6,14 @@ id: hero-heading
 about:
   template: trestles
   image-shape: round
-  image-width: 20em
+  image-width: 22em
   links:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/caitlin-swalec-75634972/
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/caitlinswalec/
     - icon: github
       text: GitHub
       href: https://github.com/caitlinswalec
@@ -22,13 +25,13 @@ about:
 ::: {#hero-heading}
 ### About Me
 
-I am an industrial decarbonization expert and climate change advocate. I direct the Heavy Industry Program at Global Energy Monitor, a nonprofit research organization, and teach graduate-level courses in carbon accounting at the University of California. I am also an experienced open water swimmer and trail runner, as well as a textile artist.
+I am an industrial decarbonization [expert](https://www.linkedin.com/in/caitlin-swalec-75634972) and climate change advocate. I direct the Heavy Industry Program at [Global Energy Monitor](https://globalenergymonitor.org/), a nonprofit research organization, and teach graduate-level courses in [carbon accounting](https://bren.ucsb.edu/people/caitlin-swalec) at the University of California, Santa Barbara. I am also an experienced [open water swimmer](https://longswims.com/p/caitlin-swalec/) and [trail runner](https://ultrasignup.com/results_participant.aspx?fname=Caitlin&lname=Swalec&age=30), as well as a [fiber artist](https://www.instagram.com/glitterpathcrafts/).
 
 ------------------------------------------------------------------------
 
 ### Current Position
 
-Program Director for Heavy Industry \| Global Energy Monitor
+**Program Director for Heavy Industry** \| Global Energy Monitor
 
 -   Developed and launched datasets on global iron and steel production in order to support the industrial decarbonization movement.
 
