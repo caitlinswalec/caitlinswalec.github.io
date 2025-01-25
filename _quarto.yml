@@ -6,8 +6,9 @@ website:
   title: "Caitlin Swalec"
   navbar:
     left: #accepts left/right
-      - about.qmd
+##      - about.qmd
       - experience.qmd
+      - publications.qmd
       - personal.qmd
       - contact.qmd
       - href: Caitlin_Swalec_CV_01_22_2025.pdf

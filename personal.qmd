@@ -1,4 +1,19 @@
 ---
-title: "Personal"
+title: "Personal Projects"
 ---
 
+My professional work on the climate movement is fueled by my personal passions for trail running, open water swimming, and fiber arts. While seeking adventure, discovery, and creation through these activities, I feel deeply connected to our planet and my community.
+
+::: {#hero-heading}
+## Trail Running
+
+My most recent trail running adventure was a [50 mile rim-to-rim-to-rim](https://www.instagram.com/p/DBW1yc3yFGqSeowjaJ6OsK4lQKf36UsPa36QsA0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) crossing of the Grand Canyon in Arizona, USA on October 9, 2024. The effort was solo, unassisted, and joyful. Four days later I ran the [Chicago Marathon](https://www.instagram.com/p/DBfJq-cSFQjBdQvJSz6FlhG7aEXEIcwn2H6RnI0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) with one of my best friends.
+
+## Open Water Swimming
+
+On October 3, 2023, I completed a 12.4 statute mile solo swim from Anacapa Island to Oxnard, California according to the marathon swimming rules of the [Santa Barbara Channel Swimming Association](https://www.instagram.com/sbchannelswim/p/C0UztrLyKFR/?img_index=1). My swim was featured for a [Waterwoman Wednesday](https://www.instagram.com/p/C8Z4B5sJ9s1/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) by Women in the Water.
+
+## Fiber Arts
+
+I enjoy knitting and crocheting and dream of one day having an entirely handmade closet of knitwear. I document my work on [Ravelry](https://www.ravelry.com/projects/cmswalec) and [Instagram](https://www.instagram.com/glitterpathcrafts/).
+:::
