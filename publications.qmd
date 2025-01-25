@@ -1,5 +1,6 @@
 ---
 title: "Publications"
+toc: false
 ---
 
 Only my most recent professional publications are listed below. A complete list is available in my CV.

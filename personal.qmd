@@ -1,5 +1,6 @@
 ---
 title: "Personal Projects"
+toc: false
 ---
 
 My professional work on the climate movement is fueled by my personal passions for trail running, open water swimming, and fiber arts. While seeking adventure, discovery, and creation through these activities, I feel deeply connected to our planet and my community.

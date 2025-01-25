@@ -17,6 +17,9 @@ about:
 ##    - icon: github
 ##      text: GitHub
 ##      href: https://github.com/caitlinswalec
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=xxXOGdcAAAAJ&hl=en
     - icon: envelope
       text: Email
       href: mailto:caitlin.swalec@gmail.com
