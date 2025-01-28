@@ -23,8 +23,10 @@ website:
 
 format:
   html:
-    theme: yeti
-    css: styles.css
+    theme: 
+      - yeti
+      - styles.scss
+    mainfont: Montserrat ##Merriweather, Nokora, Montserrat, Be+Vietnam+Pro
     toc: true
     ###page-layout: full
 
