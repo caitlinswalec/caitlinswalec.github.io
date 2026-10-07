@@ -11,7 +11,7 @@ website:
       - publications.qmd
       - personal.qmd
       - contact.qmd
-      - href: Caitlin_Swalec_CV_01_22_2025.pdf
+      - href: Swalec_Caitlin_CV_10_06_2026.pdf
         text: CV
         target: _blank #opens link (or page) in a new browser tab
 ##      - icon: github 
