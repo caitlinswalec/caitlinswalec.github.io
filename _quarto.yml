@@ -11,7 +11,7 @@ website:
       - publications.qmd
       - personal.qmd
       - contact.qmd
-      - href: Swalec_Caitlin_CV_10_06_2026.pdf
+      - href: Caitlin_Swalec_CV.pdf
         text: CV
         target: _blank #opens link (or page) in a new browser tab
 ##      - icon: github 
@@ -19,7 +19,7 @@ website:
 ##        target: _blank
   page-footer:
     background: light
-    center: Copyright 2025, Caitlin Swalec. This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/caitlinswalec/caitlinswalec.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank}, and [Quarto](https://quarto.org/){target=_blank}.
+    center: Copyright 2026, Caitlin Swalec. This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/caitlinswalec/caitlinswalec.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank}, and [Quarto](https://quarto.org/){target=_blank}.
 
 format:
   html:
